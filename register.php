@@ -68,7 +68,7 @@
       background-color: #555;
     }
     body {
-  background-image: url("https://www.ntaskmanager.com/wp-content/uploads/2022/04/address-book-software.png"  );
+
   background-repeat: no-repeat;
 
    background-size: 1850px;; 
